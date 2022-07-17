@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    /* background-image: url(images/donation0.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+
+}
+
+.hero {
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+}
+
+.hero h1 {
+    font-size: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
